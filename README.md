@@ -1,6 +1,7 @@
 # CompositionalLayout-practice1
 
-![Uploading Simulator Screen Recording - iPhone 13 Pro - 2023-01-12 at 23.38.47.gif…]()
+![Simulator Screen Recording - iPhone 13 Pro - 2023-01-12 at 23 38 47](https://user-images.githubusercontent.com/42196410/212100513-364e264b-d77a-40f9-b037-da82c025f65a.gif)
+
 
 ## 🧩 개요
 
@@ -22,3 +23,6 @@
 
 `Snapshot`은 섹션 및 아이템에 대해 기존의 IndexPath를 사용하지 않고, UID를 사용한다.
 
+### ✔️ 아이템의 동적 높이 설정
+
+`heightDimension`값을 `.estimated` 메서드로 설정한다
